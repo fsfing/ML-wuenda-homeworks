@@ -1,7 +1,7 @@
 # ML-wuenda-homeworks
 homeworks-wuenda
 
-including:
+including:   
           1.Linear regression  
           2.Logistic regression +(regularization)  
           3.Mul-classification  
